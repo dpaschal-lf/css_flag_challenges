@@ -7,7 +7,7 @@
 1. put two horizontal elements
 1. use px to set the height of the horizontal sections
 
-#### featureset 2 - Indonesia
+#### featureset 2 - Columbia
 <img src="assets/images/02_columbia.png" border="1">
 
 1. use % to set the height of the horizontal sections.  To make it work, you'll need to have the parent with either a fixed height, or a % of an eventual parent with a fixed height.  VH/VW/VMIN work as 'fixed' height.
