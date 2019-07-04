@@ -1,4 +1,16 @@
 /* Indonesia */
+.rectangle{
+  height: 90px;
+  width: 275px;
+}
+
+.redRectangle{
+   background-color: red;
+}
+
+.whiteRectangle {
+  background-color: whitesmoke;
+}
 
 /* Colombia */
 
