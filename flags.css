@@ -1,4 +1,17 @@
 /* Indonesia */
+.flagContainer{
+   width: 50vmin;
+   height: 33vmin;
+}
+#indonesia > .halfRectangle{
+   height: 50%;
+}
+.red {
+  background-color: red;
+}
+.white {
+  background-color: whitesmoke;
+}
 
 /* Colombia */
 
