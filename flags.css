@@ -2,18 +2,32 @@
 .flagContainer{
    width: 50vmin;
    height: 33vmin;
+   margin: 3vmin;
 }
-#indonesia > .halfRectangle{
+ .halfRectangle{
    height: 50%;
 }
 .red {
-  background-color: red;
+  background-color: #f00;
 }
 .white {
-  background-color: whitesmoke;
+  background-color: #f5f5f5;
+}
+/* Colombia */
+.quarterRectangle {
+  height: 25%;
+}
+.mustardYellow{
+  background-color: #fcd116;
 }
 
-/* Colombia */
+.darkBlue {
+  background-color: #003893;
+}
+
+.darkRed {
+  background-color: #CE1126;
+}
 
 /* Ireland */
 
