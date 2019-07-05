@@ -1,14 +1,15 @@
 /* Indonesia */
-.rectangle{
-  height: 90px;
-  width: 275px;
+.flagContainer{
+   width: 50vmin;
+   height: 33vmin;
 }
-
-.redRectangle{
-   background-color: red;
+#indonesia > .halfRectangle{
+   height: 50%;
 }
-
-.whiteRectangle {
+.red {
+  background-color: red;
+}
+.white {
   background-color: whitesmoke;
 }
 
