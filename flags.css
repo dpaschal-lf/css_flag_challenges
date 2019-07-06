@@ -53,9 +53,17 @@
   height: 100%;
   width: 33%;
 }
-
 /* Benin */
-
+.leftFloatPanel{
+  float: left;
+  height: 100%;
+  width: 40%;
+}
+.rightFloatPanel {
+  float: right;
+  height: 100%;
+  width: 60%;
+}
 /* Sweden */
 
 /* Switzerland */
