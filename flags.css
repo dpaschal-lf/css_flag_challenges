@@ -29,22 +29,30 @@
 /* Ireland */
 .flexContainer {
   display: flex;
-  flex-direction: row;
+
 }
 
-.flexChild {
+.dynamicSiblingPanel {
   width: 100%;
 }
 
-.green{
+.green {
   background-color: rgb(22, 155, 98)
 }
 
-.orange{
+.orange {
   background-color: rgb(255, 136, 62)
 }
 
 /* France */
+#france {
+  font-size: 0;
+}
+.inlineBlockPanel {
+  display: inline-block;
+  height: 100%;
+  width: 33%;
+}
 
 /* Benin */
 
