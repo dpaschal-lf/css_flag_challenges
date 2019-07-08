@@ -65,6 +65,30 @@
   width: 60%;
 }
 /* Sweden */
+#sweden .halfRectangle {
+  position: relative;
+}
+
+.lightBlue{
+  background-color: rgb(0, 106, 167);
+}
+
+.absoluteLeftPanel {
+  position: absolute;
+  height: 80%;
+  width: 28%;
+}
+
+.absoluteRightPanel {
+  position: absolute;
+  height: 80%;
+  width: 58%;
+  left: 42%;
+}
+
+.bottomPanel {
+  top: 20%;
+}
 
 /* Switzerland */
 
