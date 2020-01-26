@@ -91,6 +91,19 @@
 }
 
 /* Switzerland */
+.squareFlagContainer {
+  position: relative;
+  height: 33vmin;
+  width: 33vmin;
+  margin: 3vmin;
+}
+.horizontalRectangle {
+  position: absolute;
+  height: 25%;
+  width: 60%;
+  left: 25%;
+  top: 25%;
+}
 
 /* Tonga */
 
