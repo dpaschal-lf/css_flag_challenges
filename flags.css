@@ -101,8 +101,17 @@
   position: absolute;
   height: 25%;
   width: 60%;
-  left: 25%;
-  top: 25%;
+  left: 20%;
+  top: 37%;
+}
+
+.verticalRectangle {
+  position: absolute;
+  height: 60%;
+  width: 25%;
+  left: 37%;
+  top: 20%;
+
 }
 
 /* Tonga */
