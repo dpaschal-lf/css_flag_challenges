@@ -1,5 +1,6 @@
 /* Indonesia */
 .flagContainer{
+  position: relative;
    width: 50vmin;
    height: 33vmin;
    margin: 3vmin;
@@ -114,7 +115,14 @@
 
 }
 
+
 /* Tonga */
+.smallSquareFlagContainer {
+  position: relative;
+  height: 15vmin;
+  width: 17vmin;
+
+}
 
 /* Japan */
 
