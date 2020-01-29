@@ -120,10 +120,25 @@
 .smallSquareFlagContainer {
   position: relative;
   height: 15vmin;
-  width: 17vmin;
+  width: 25vmin;
 
 }
+.smallHorizontalRectangle {
+  position: absolute;
+  height: 22%;
+  width: 43%;
+  left: 30%;
+  top: 37%;
+}
 
+.smallVerticalRectangle {
+  position: absolute;
+  height: 63%;
+  width: 17%;
+  left: 43%;
+  top: 16%;
+
+}
 /* Japan */
 
 /* Canada */
