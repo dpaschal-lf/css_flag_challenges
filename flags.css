@@ -140,7 +140,12 @@
 
 }
 /* Japan */
-
+.circle{
+  margin: auto;
+  width: 43%;
+  height: 57%;
+  border-radius: 50%;
+}
 /* Canada */
 
 /* Norway */
