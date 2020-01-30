@@ -147,7 +147,22 @@
   border-radius: 50%;
 }
 /* Canada */
+.smallerDynamicPanel{
+  width: 65%;
+}
+.middleLogoPanel::before{
+  content: "";
+  height: 50%;
+  width: 50%;
+  left: 31%;
+  top: 30%;
+  position: absolute;
+  background-image: url(assets/images/canada_logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  transform:rotateZ(27deg);
 
+}
 /* Norway */
 
 /* Greece */
