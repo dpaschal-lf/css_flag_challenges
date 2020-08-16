@@ -170,6 +170,7 @@
   width: 20%;
   left: 30%;
 
+
 }
 
 .fullLengthVerticalPanel.innerPanel {
@@ -182,6 +183,7 @@
 }
 div.darkBlue.fullLengthVerticalPanel{
   z-index: 1;
+
 }
 
 .fullLengthHorizontalPanel{
