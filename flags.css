@@ -195,6 +195,29 @@ div.darkBlue.fullLengthVerticalPanel{
 
 
 /* Greece */
+.greekBlue {
+   background-color: rgb(13, 94, 175)
+}
+#greece .smallSquareFlagContainer  {
+  position: absolute;
+  height: 20vmin;
+  width: 20vmin;
+}
+
+#greece .smallHorizontalRectangle {
+  height: 22%;
+  width: 100%;
+  left: 0;
+  top: 37%;
+}
+
+#greece .smallVerticalRectangle {
+  height: 100%;
+  width: 22%;
+  left: 40%;
+  top: 0;
+
+}
 
 /* Somalia */
 
