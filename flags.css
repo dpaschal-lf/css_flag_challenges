@@ -169,11 +169,24 @@
   height: 100%;
   width: 20%;
   left: 30%;
+
+}
+
+.fullLengthVerticalPanel.innerPanel {
+  width: 50%;
+  left: 25%;
+}
+.fullLengthHorizontalPanel.innerPanel {
+  height: 60%;
+  top: 20%;
+}
+div.darkBlue.fullLengthVerticalPanel{
+  z-index: 1;
 }
 
 .fullLengthHorizontalPanel{
   position: absolute;
-  height: 20%;
+  height: 25%;
   width: 100%;
   top: 40%;
 }
