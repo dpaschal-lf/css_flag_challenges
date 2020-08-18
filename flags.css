@@ -231,7 +231,18 @@ div.darkBlue.fullLengthVerticalPanel{
   background-color: rgb(13, 94, 175);
 }
 /* Somalia */
+#somalia {
+background-color: #4189DD;
+position: relative;
+}
 
+.somaliaStar {
+  display: inline-block;
+  position: absolute;
+  left: 26%;
+  top: -9%;
+  font-size: 8em;
+}
 /* Chile */
 
 /* Turkey */
