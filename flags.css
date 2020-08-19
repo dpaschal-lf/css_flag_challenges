@@ -242,6 +242,45 @@ position: relative;
   left: 26%;
   top: -9%;
   font-size: 8em;
+  background-color: white;
+}
+
+.star{
+  left: 8%;
+  top: 20%;
+   position:relative;
+   height:0px;
+   width:0px;
+
+   border-right:  100px solid transparent;
+   border-bottom: 70px  solid white;
+   border-left:   100px solid transparent;
+
+   transform:    rotate(35deg);
+}
+
+.star:before{
+   position:absolute;
+   top: -45px;
+   left: -65px;
+   content:"";
+   border-bottom: 80px solid white;
+   border-left: 30px solid transparent;
+   border-right: 30px solid transparent;
+
+   transform: rotate(-35deg);
+}
+
+.star:after{
+   position:absolute;
+   top: 3px;
+   left: -105px;
+   content:"";
+   border-right: 100px solid transparent;
+   border-bottom: 70px solid white;
+   border-left: 100px solid transparent;
+
+   transform: rotate(-70deg);
 }
 /* Chile */
 
