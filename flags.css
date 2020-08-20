@@ -270,6 +270,16 @@ position: relative;
 
    transform: rotate(-35deg);
 }
+/* .star:before {
+    position: absolute;
+    top: -8px;
+    left: -37px;
+    content: "";
+    border-bottom: 44px solid white;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    transform: rotate(-35deg);
+} */
 
 .star:after{
    position:absolute;
