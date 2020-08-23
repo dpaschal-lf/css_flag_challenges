@@ -248,7 +248,7 @@ position: relative;
 .star{
   left: 8%;
   top: 20%;
-   position:relative;
+   position:absolute;
    height:0px;
    width:0px;
 
@@ -256,7 +256,7 @@ position: relative;
    border-bottom: 70px  solid white;
    border-left:   100px solid transparent;
 
-   transform:    rotate(35deg);
+   transform:    rotate(35deg) scale(.35);
 }
 
 .star:before{
@@ -268,7 +268,7 @@ position: relative;
    border-left: 30px solid transparent;
    border-right: 30px solid transparent;
 
-   transform: rotate(-35deg);
+   transform: rotate(-35deg) scale(.8);
 }
 /* .star:before {
     position: absolute;
@@ -290,12 +290,21 @@ position: relative;
    border-bottom: 70px solid white;
    border-left: 100px solid transparent;
 
-   transform: rotate(-70deg);
+   transform: rotate(-70deg) scale(.9);
 }
 /* Chile */
 .horizontalPanel{
   height:50%;
   width:100%;
+
+}
+.chileStarContainer{
+  position: relative;
+  left: -68%;
+}
+
+#chile .smallSquareFlagContainer{
+  width: 19vmin;
 }
 
 
