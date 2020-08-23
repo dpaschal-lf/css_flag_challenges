@@ -283,6 +283,11 @@ position: relative;
    transform: rotate(-70deg);
 }
 /* Chile */
+.horizontalPanel{
+  height:50%;
+  width:100%;
+}
+
 
 /* Turkey */
 
