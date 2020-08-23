@@ -309,6 +309,19 @@ position: relative;
 
 
 /* Turkey */
+#turkey .circle {
+  display: inline-block;
+  margin-left: 21%;
+  margin-top: 14%;
+}
+
+#turkey .circle.red{
+  margin-top: 17%;
+  margin-left: -34%;
+  height: 48%;
+  width: 35%;
+  position: absolute;
+}
 
 /* China */
 
