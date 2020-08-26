@@ -236,13 +236,10 @@ background-color: #4189DD;
 position: relative;
 }
 
-.somaliaStar {
-  display: inline-block;
-  position: absolute;
-  left: 26%;
-  top: -9%;
-  font-size: 8em;
-  background-color: white;
+.somaliaStarContainer {
+ position: relative;
+left: 5%;
+top:25%;
 }
 
 .star{
@@ -300,11 +297,18 @@ position: relative;
 }
 .chileStarContainer{
   position: relative;
-  left: -68%;
+  left: -50%;
 }
 
 #chile .smallSquareFlagContainer{
   width: 19vmin;
+}
+
+@media screen and (min-width: 630px) {
+  .chileStarContainer{
+  top: 10%;
+  left: -42%;
+}
 }
 
 
