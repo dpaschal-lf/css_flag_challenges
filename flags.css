@@ -326,7 +326,12 @@ top:25%;
   width: 35%;
   position: absolute;
 }
-
+#turkey .turkeyStarContainer {
+  position: absolute;
+  left: 56%;
+  top: -8%;
+  transform: rotate(51deg);
+}
 #turkey .star {
   left: 36%;
   top: 32%;
