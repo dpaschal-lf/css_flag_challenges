@@ -337,7 +337,26 @@ top:25%;
   top: 32%;
 }
 /* China */
+.chinaStarContainer {
+  display: inline-block;
+  position: relative;
+  left: -24%;
+}
+#china .star:first-of-type {
+  position: relative;
+}
 
+ #china .star + .chinaStarContainer{
+   display: inline-block;
+   position: absolute;
+   left: 40%;
+   top: 5%;
+   transform: scale(.5);
+ }
+
+ #china .star:before, #china .star:after, #china .star {
+   border-bottom: 70px solid rgb(252, 209, 22);
+ }
 /* Cuba */
 
 /* Western Sahara */
