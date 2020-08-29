@@ -341,6 +341,7 @@ top:25%;
   display: inline-block;
   position: relative;
   left: -24%;
+  margin-top: 3%;
 }
 #china .star:first-of-type {
   position: relative;
@@ -351,13 +352,35 @@ top:25%;
    position: absolute;
    left: 40%;
    top: 5%;
-   transform: scale(.5);
+   transform: rotate(-51deg) scale(.3);
  }
 
  #china .star:before, #china .star:after, #china .star {
    border-bottom: 70px solid rgb(252, 209, 22);
  }
 
+  .secondSmallChinaStarContainer{
+   display: inline-block;
+   position: absolute;
+   left: 40%;
+   top: 10%;
+   transform: rotate(-51deg) scale(.3);
+ }
+
+  .thirdSmallChinaStarContainer{
+   display: inline-block;
+   position: absolute;
+   left: 40%;
+   top: 15%;
+   transform: rotate(-51deg) scale(.3);
+ }
+  .fourthSmallChinaStarContainer{
+   display: inline-block;
+   position: absolute;
+   left: 40%;
+   top: 20%;
+   transform: rotate(-51deg) scale(.3);
+ }
 
 /* Cuba */
 
