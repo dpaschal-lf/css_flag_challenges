@@ -350,8 +350,8 @@ top:25%;
  #china .star + .chinaStarContainer{
    display: inline-block;
    position: absolute;
-   left: 40%;
-   top: 5%;
+   left: 29%;
+   top: -46%;
    transform: rotate(-51deg) scale(.3);
  }
 
@@ -363,7 +363,7 @@ top:25%;
    display: inline-block;
    position: absolute;
    left: 40%;
-   top: 10%;
+   top: -12%;
    transform: rotate(-51deg) scale(.3);
  }
 
@@ -371,14 +371,14 @@ top:25%;
    display: inline-block;
    position: absolute;
    left: 40%;
-   top: 15%;
-   transform: rotate(-51deg) scale(.3);
+   top: 21%;
+   transform: scale(.3);
  }
   .fourthSmallChinaStarContainer{
    display: inline-block;
    position: absolute;
-   left: 40%;
-   top: 20%;
+   left: 30%;
+   top: 53%;
    transform: rotate(-51deg) scale(.3);
  }
 
