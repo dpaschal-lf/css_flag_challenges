@@ -386,6 +386,19 @@ top:25%;
 #cuba .largeContainer >div:nth-child(odd){
   background-color: rgb(0, 56, 147);
 }
+
+#cuba .smallSquareFlagContainer{
+  position: absolute;
+  height: 50vmin;
+  width: 50vmin;
+  top: 16%;
+  left: -25%;
+  transform: rotate(32deg) skew(-34deg, -8deg) translate(-226px);
+}
+
+#cuba.flagContainer{
+  overflow: hidden;
+}
 /* Western Sahara */
 
 /* Kuwait */
