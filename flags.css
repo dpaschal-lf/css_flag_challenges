@@ -396,7 +396,7 @@ top:25%;
   transform: rotate(32deg) skew(-34deg, -8deg) translate(-226px);
 }
 
-#cuba.flagContainer, #western_sahar.flagContainer{
+#cuba.flagContainer, #western_sahara.flagContainer{
   overflow: hidden;
 }
 
@@ -417,6 +417,11 @@ top:25%;
 
 #western_sahara .largeContainer div.green {
   background-color: rgb(22, 155, 98);
+}
+#western_sahara .smallSquareFlagContainer{
+  top: 50%;
+  left: -29%;
+  transform: rotate(32deg) skew(-15deg, 7deg) translate(-226px);
 }
 /* Kuwait */
 
