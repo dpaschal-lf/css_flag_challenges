@@ -426,6 +426,33 @@ top:25%;
  #western_sahara .star:before, #western_sahara .star:after, #western_sahara .star, #western_sahara .circle:first-of-type {
    border-bottom: 70px solid rgb(206, 17, 38);
  }
+
+ #western_sahara .westernSaharaStarContainer{
+   position: absolute;
+   left: 47%;
+   top: -4%;
+   transform: rotate(51deg);
+ }
+
+ #western_sahara .circle{
+   display: inline-block;
+ }
+ #western_sahara .circle:first-of-type{
+margin-left: 21%;
+margin-top: 14%;
+ }
+
+ #western_sahara .circle.white{
+   margin-top: 17%;
+   margin-left: -32%;
+   height: 33%;
+   width: 25%;
+   position: absolute;
+ }
+
+ #western_sahara .star{
+   transform: rotate(-18deg) scale(.25);
+ }
 /* Kuwait */
 
 /* Venezuela */
