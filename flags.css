@@ -423,13 +423,13 @@ top:25%;
   left: -29%;
   transform: rotate(32deg) skew(-15deg, 7deg) translate(-226px);
 }
- #western_sahara .star:before, #western_sahara .star:after, #western_sahara .star, #western_sahara .circle:first-of-type {
+ #western_sahara .star:before, #western_sahara .star:after, #western_sahara .star {
    border-bottom: 70px solid rgb(206, 17, 38);
  }
 
  #western_sahara .westernSaharaStarContainer{
    position: absolute;
-   left: 47%;
+   left: 46%;
    top: -4%;
    transform: rotate(51deg);
  }
@@ -438,21 +438,26 @@ top:25%;
    display: inline-block;
  }
  #western_sahara .circle:first-of-type{
-margin-left: 21%;
-margin-top: 14%;
+margin-left: 42%;
+margin-top: 1%;
+background-color:  rgb(206, 17, 38);
+   width: 23%;
+   height: 92%;
  }
 
  #western_sahara .circle.white{
-   margin-top: 17%;
-   margin-left: -32%;
-   height: 33%;
-   width: 25%;
+   margin-top: 1%;
+   margin-left: -18%;
+   height: 30%;
+   width: 20%;
    position: absolute;
+   background-color: white;
  }
 
  #western_sahara .star{
    transform: rotate(-18deg) scale(.25);
  }
+
 /* Kuwait */
 
 /* Venezuela */
