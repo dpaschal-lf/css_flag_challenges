@@ -406,7 +406,7 @@ top:25%;
   transform: rotate(62deg) scale(.25);
 }
 /* Western Sahara */
-#western_sahara .largeContainer > div {
+#western_sahara .largeContainer > div, #kuwait .largeContainer {
   width: 100%;
   height: 33%;
 }
@@ -418,7 +418,7 @@ top:25%;
 #western_sahara .largeContainer div.green {
   background-color: rgb(22, 155, 98);
 }
-#western_sahara .smallSquareFlagContainer{
+#western_sahara .smallSquareFlagContainer, #kuwait .smallSquareFlagContainer{
   top: 50%;
   left: -29%;
   transform: rotate(32deg) skew(-15deg, 7deg) translate(-226px);
