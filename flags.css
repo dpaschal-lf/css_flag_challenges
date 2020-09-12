@@ -468,10 +468,11 @@ background-color:  rgb(206, 17, 38);
   height: 100%;
 }
 #kuwait .smallSquareFlagContainer{
-  top: 136%;
-  left: 29%;
-  transform: rotate(32deg) skew(-15deg, 7deg) translate(-226px);
+  top: 165%;
+  left: 30%;
+  transform: rotate(36deg) skew(-13deg, 7deg) translate(-226px);
   background-color: rgb(0,0,0);
+  height: 24vmin;
 /* Venezuela */
 
 /* Trinidad And Tobago */
