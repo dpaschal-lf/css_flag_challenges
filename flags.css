@@ -481,7 +481,10 @@ background-color:  rgb(206, 17, 38);
   left: 25%;
 }
 /* Venezuela */
-
+.thirdRectangle{
+  width: 100%;
+  height: 33%;
+}
 /* Trinidad And Tobago */
 
 /* United Kingdom */
