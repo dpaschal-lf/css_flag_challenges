@@ -498,6 +498,14 @@ background-color:  rgb(206, 17, 38);
   transform:scale(.6);
 
 }
+
+ #venezuela .star:before, #venezuela .star:after, #venezuela .star {
+   border-bottom: 70px solid rgb(252, 250, 250);
+ }
+
+ .venezuelaStarContainer,.secondSmallVenezuelaStarContainer, .thirdSmallVenezuelaStarContainer, .fourthSmallVenezuelaaStarContainer{
+   transform: scale(.3);
+ }
 /* Trinidad And Tobago */
 
 /* United Kingdom */
