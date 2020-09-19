@@ -505,6 +505,21 @@ background-color:  rgb(206, 17, 38);
 
  .venezuelaStarContainer,.secondSmallVenezuelaStarContainer, .thirdSmallVenezuelaStarContainer, .fourthSmallVenezuelaaStarContainer{
    transform: scale(.3);
+   display: inline-block;
+   position: absolute;
+ }
+ .venezuelaStarContainer{
+   left: 20%;
+
+ }
+ .secondSmallVenezuelaStarContainer{
+    left: 35%;
+ }
+ .thirdSmallVenezuelaStarContainer{
+    left: 50%;
+ }
+ .fourthSmallVenezuelaaStarContainer{
+    left: 65%;
  }
 /* Trinidad And Tobago */
 
