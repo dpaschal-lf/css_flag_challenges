@@ -504,22 +504,29 @@ background-color:  rgb(206, 17, 38);
  }
 
  .venezuelaStarContainer,.secondSmallVenezuelaStarContainer, .thirdSmallVenezuelaStarContainer, .fourthSmallVenezuelaaStarContainer{
-   transform: scale(.3);
+   transform: scale(.25);
    display: inline-block;
    position: absolute;
  }
  .venezuelaStarContainer{
    left: 20%;
+   top: 52%;
 
  }
  .secondSmallVenezuelaStarContainer{
-    left: 35%;
+    left: 24%;
+    top: 40%;
+    transform: scale(.25) rotate(17deg);
  }
  .thirdSmallVenezuelaStarContainer{
-    left: 50%;
+    left: 32%;
+    top: 29%;
+    transform: scale(.25)rotate(48deg);
  }
  .fourthSmallVenezuelaaStarContainer{
-    left: 65%;
+    left: 32%;
+    top: 35%;
+    transform: scale(.25) rotate(-9deg);
  }
 /* Trinidad And Tobago */
 
