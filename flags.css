@@ -503,7 +503,10 @@ background-color:  rgb(206, 17, 38);
    border-bottom: 70px solid rgb(252, 250, 250);
  }
 
- .venezuelaStarContainer,.secondSmallVenezuelaStarContainer, .thirdSmallVenezuelaStarContainer, .fourthSmallVenezuelaaStarContainer{
+ .venezuelaStarContainer,.secondSmallVenezuelaStarContainer,
+ .thirdSmallVenezuelaStarContainer, .fourthSmallVenezuelaaStarContainer,
+.fifthSmallVenezuelaStarContainer, .sixthSmallVenezuelaStarContainer,
+ .seventhSmallVenezuelaStarContainer, .eighthSmallVenezuelaaStarContainer{
    transform: scale(.25);
    display: inline-block;
    position: absolute;
@@ -524,6 +527,26 @@ background-color:  rgb(206, 17, 38);
     transform: scale(.25)rotate(48deg);
  }
  .fourthSmallVenezuelaaStarContainer{
+    left: 32%;
+    top: 35%;
+    transform: scale(.25) rotate(-9deg);
+ }
+  .fifthSmallVenezuelaStarContainer{
+    left: 40%;
+    top: 31%;
+    transform: scale(.25) rotate(9deg);
+ }
+  .sixthSmallVenezuelaStarContainer{
+    left: 32%;
+    top: 35%;
+    transform: scale(.25) rotate(-9deg);
+ }
+  .seventhSmallVenezuelaStarContainer{
+    left: 32%;
+    top: 35%;
+    transform: scale(.25) rotate(-9deg);
+ }
+  .eighthSmallVenezuelaaStarContainer{
     left: 32%;
     top: 35%;
     transform: scale(.25) rotate(-9deg);
