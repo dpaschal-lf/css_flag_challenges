@@ -26,6 +26,9 @@
 .darkRed {
   background-color: rgb(206, 17, 38);
 }
+.black {
+  background-color: rgb(0,0,0);
+}
 
 /* Ireland */
 .flexContainer {
