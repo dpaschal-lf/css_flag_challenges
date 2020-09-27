@@ -557,8 +557,8 @@ background-color:  rgb(206, 17, 38);
 
 /* Trinidad And Tobago */
 
-#trinidad_and_tobago .fullLengthHorizontalPanel .innerPanel {
-  transform: rotate(48deg);
+#trinidad_and_tobago {
+  overflow: hidden;
 }
 
 #trinidad_and_tobago .one{
