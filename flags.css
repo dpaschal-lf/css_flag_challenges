@@ -554,8 +554,19 @@ background-color:  rgb(206, 17, 38);
     top: 52%;
     transform: scale(.25) rotate(0deg);
  }
+
 /* Trinidad And Tobago */
 
+#trinidad_and_tobago .fullLengthHorizontalPanel .innerPanel {
+  transform: rotate(48deg);
+}
+
+#trinidad_and_tobago .one{
+  transform: rotate(41deg);
+  top:38%;
+  left: -11%;
+  width: 120%;
+}
 /* United Kingdom */
 
 /* New Zealand */
