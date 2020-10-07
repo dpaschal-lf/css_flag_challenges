@@ -568,7 +568,15 @@ background-color:  rgb(206, 17, 38);
   width: 120%;
 }
 /* United Kingdom */
-
+#united_kingdom .fullLengthVerticalPanel{
+  left: 37%;
+}
+#united_kingdom .fullLengthVerticalPanel .innerPanel {
+  left: 24%;
+}
+#united_kingdom .darkRed.fullLengthVerticalPanel{
+    z-index: 1;
+}
 /* New Zealand */
 
 /* United States */
