@@ -586,10 +586,21 @@ background-color:  rgb(206, 17, 38);
     width: 122%;
     left: -31px;
 }
-/* #united_kingdom .fullLengthHorizontalPanel.innerPanel:nth-child(4) .darkRed.innerPanel{
+#united_kingdom .fullLengthHorizontalPanel:nth-child(4) .darkRed.innerPanel{
   height: 29%;
     top: 50%;
-} */
+}
+#united_kingdom .white.fullLengthVerticalPanel:nth-child(1){
+ transform: rotate(53deg);
+    /* width: 122%; */
+    height: 182%;
+    top: -41%;
+    left: 118px;
+}
+#united_kingdom .white.fullLengthVerticalPanel:nth-child(1) .darkRed.innerPanel{
+width: 20%;
+    left: 50%;
+}
 /* New Zealand */
 
 /* United States */
